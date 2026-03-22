@@ -4,3 +4,11 @@
 </div>
 
 ---
+
+## 🧠 **Engineering Intelligence**
+
+<img align="right" src="https://github.com/ParambrataSinha/ParambrataSinha/blob/main/Assets/Pb-Phantom.png" width="180">
+
+* :bowtie: **Chemical Engineering** undergraduate at **IIT Roorkee**.
+* :shipit: **Designer** — **Information Management Group(IMG)**, exploring the field where logic meets figma canvas.
+* :fishsticks: Exploring **Graphic Designing**, **Product Designing**, and working on how aesthetics meet logic.

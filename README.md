@@ -7,17 +7,12 @@
 
 ## 🧠 **Engineering Intelligence**
 
-<img align="right" src="https://github.com/ParambrataSinha/ParambrataSinha/blob/main/Assets/Pb-Phantom.png" width="180">
-
 * :bowtie: **Chemical Engineering** undergraduate at **IIT Roorkee**.
 * :shipit: **Designer** — **Information Management Group(IMG)**, exploring the field where logic meets figma canvas.
 * :fishsticks: Exploring **Graphic Designing**, **Product Designing**, and working on how aesthetics meet logic.
 
   ## Thanks for visiting :heart:
 <img align="right" alt="GIF" height="100px" src="https://github.com/saloni-mathur-alt/About_Me/blob/main/Assets/AnimatedSticker-ezgif.com-censor.gif" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParambrataSinha&style=flat-square&color=blueviolet" alt="Visitor Count">
 
 ⭐️ From [Saloni Mathur](https://github.com/saloni-mathur-alt)
 
